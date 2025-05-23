@@ -1,8 +1,8 @@
 <?php
-	$host = "sql109.epizy.com";
-	$user = "epiz_26771597";
-	$pass = "gvQHMVqXHNUXyA";
-	$banco = "epiz_26771597_login";
+	$host = "HOST";
+	$user = "USER";
+	$pass = "SENHA";
+	$banco = "BANCO";
 
 	$conexao = mysqli_connect($host, $user, $pass, $banco);
 
